@@ -1,24 +1,8 @@
-# aula0710
-public class Main {
+Programação Orientada a Objeto
+Atividade Começando com JAVA.
 
-    public static void main(String[] args) {
-
-        float n1 = 7;
-        float n2 = 8;
-        float n3 = 9;
-        float n4 = 4;
-        float n5 = 5;
-        float n6 = 6;
-        float media1 = (n1+n2+n3)/3;
-        float media2 = (n4+n5+n6)/3;
-    
-      System.out.println("A média de 7, 8 e 9 é: "+media1);
-      System.out.println("A média de 4, 5 e 6 é: "+media2);
-     
-      float soma = media1+media2;
-
-      System.out.println("A soma das médias é: "+soma);
-      System.out.println("A média das médias é: "+soma/2);
-     
-     }
-    }
+Você deverá criar um algoritmo que imprima:
+  1- A média aritmética dos números 8,9 e 7
+  2- A média dos números 4, 5 e 6
+  3- A soma das duas médias
+  4- A média das médias.
